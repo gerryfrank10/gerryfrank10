@@ -3,7 +3,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I'm a passionate AI and Cybersecurity enthusiast and leveraging AI, Machine Learning, and Data Science to create intelligent and efficient solutions for real-world problems. My expertise lies in reinforcement learning, web vulnerability detection, and AI-driven automation.
+I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning, and Data Science to create intelligent and efficient solutions for real-world problems. My expertise lies in reinforcement learning, web vulnerability detection, and AI-driven automation.
 
 ## 🛠️ Tech Stack
 
@@ -12,8 +12,8 @@ I'm a passionate AI and Cybersecurity enthusiast and leveraging AI, Machine Lear
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 
 ### **AI/ML & Data Science**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -21,13 +21,16 @@ I'm a passionate AI and Cybersecurity enthusiast and leveraging AI, Machine Lear
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Transformers](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-5C3EE8?logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-5C3EE8?logo=opencv&logoColor=white)
 
-### **Web & Security**
+### **Web**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+
+### **Security**
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?logo=burp-suite&logoColor=white)
 
 ### **Tools & Databases**
@@ -35,6 +38,10 @@ I'm a passionate AI and Cybersecurity enthusiast and leveraging AI, Machine Lear
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+### **Certificates**
+![OSWA](https://img.shields.io/badge/-OSWA-FF5733?logo=security&logoColor=white)
+![OSCP](https://img.shields.io/badge/-OSCP-2E86C1?logo=security&logoColor=white)
 
 ## 📈 GitHub Analytics
 
