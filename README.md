@@ -22,8 +22,8 @@ I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-5C3EE8?logo=nlp&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-5C3EE8?logo=transformers&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-5C3EE8?logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-5C3EE8?logo=huggingface&logoColor=white)
 
 ### **Web**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
