@@ -14,6 +14,7 @@ I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![Php](https://img.shields.io/badge/-Php-000000?logo=php&logoColor=white)
 
 ### **AI/ML & Data Science**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -21,8 +22,8 @@ I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-5C3EE8?logo=opencv&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-5C3EE8?logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-5C3EE8?logo=nlp&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-5C3EE8?logo=transformers&logoColor=white)
 
 ### **Web**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -41,24 +42,24 @@ I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning
 
 ### **Certificates**
 ![OSWA](https://img.shields.io/badge/-OSWA-FF5733?logo=security&logoColor=white)
-![OSCP](https://img.shields.io/badge/-OSCP-2E86C1?logo=security&logoColor=white)
+
 
 ## 📈 GitHub Analytics
 
-<a href="https://github.com/gerald-amasi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gerald-amasi&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Gerald's GitHub Stats" />
+<a href="https://github.com/gerryfrank10/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gerryfrank10&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Gerald's GitHub Stats" />
 </a>
-<a href="https://github.com/gerald-amasi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerald-amasi&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
+<a href="https://github.com/gerryfrank10/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerryfrank10&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
 </a>
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/gerald-amasi">
+  <a href="https://www.linkedin.com/in/gerald-amasi-555808136/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:geraldamasi@gmail.com">
+  <a href="mailto:gerryamasi1996@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://medium.com/@gerald-amasi">
