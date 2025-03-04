@@ -3,7 +3,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning, and Data Science to create intelligent and efficient solutions for real-world problems. My expertise lies in reinforcement learning, web vulnerability detection, and AI-driven automation.
+I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning, and Data Science to create intelligent and efficient solutions for real-world problems. My expertise lies in reinforcement learning, web vulnerability detection, penetration testing and AI-driven automation.
 
 ## 🛠️ Tech Stack
 
@@ -64,6 +64,12 @@ I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning
   </a>
   <a href="https://medium.com/@gerald-amasi">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+<a href="https://medium.com/@gerald-amasi">
+<img src="https://img.shields.io/badge/Hackerrank-12100E?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+  <a href="https://medium.com/@gerald-amasi">
+    <img src="https://img.shields.io/badge/Huggingface-12100E?style=for-the-badge&logo=huggingface&logoColor=white" />
   </a>
 </p>
 
