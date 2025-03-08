@@ -50,7 +50,7 @@ I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gerryfrank10&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Gerald's GitHub Stats" />
 </a>
 <a href="https://github.com/gerryfrank10/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerryfrank10&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerryfrank10&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=5" />
 </a>
 
 ## 🤝 Let's Connect
@@ -62,7 +62,7 @@ I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning
   <a href="mailto:gerryamasi1996@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://medium.com/@gerald-amasi">
+  <a href="https://medium.com/@gerryamasi1996">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 <a href="https://medium.com/@gerald-amasi">
