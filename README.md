@@ -42,8 +42,8 @@ I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning
 
 ### **Certificates**
 ![OSWA](https://img.shields.io/badge/-OSWA-FF5733?logo=security&logoColor=white)
-![OSCP](https://img.shields.io/badge/-OSWA-FF5733?logo=security&logoColor=white)
-![OSCP+](https://img.shields.io/badge/-OSWA-FF5733?logo=security&logoColor=white)
+![OSCP](https://img.shields.io/badge/-OSCP-FF5733?logo=security&logoColor=white)
+![OSCP+](https://img.shields.io/badge/-OSCP+-FF5733?logo=security&logoColor=white)
 
 
 ## 📈 GitHub Analytics
