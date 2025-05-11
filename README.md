@@ -14,7 +14,6 @@ I'm a passionate AI and Cybersecurity enthusiast leveraging AI, Machine Learning
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![Php](https://img.shields.io/badge/-Php-000000?logo=php&logoColor=white)
 
 ### **AI/ML & Data Science**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
